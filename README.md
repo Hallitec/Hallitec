@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hallitec
-- 👀 I’m interested in most things IT-related but I'm especially interested in cyber security and programming.
-- 🌱 I’m currently learning my first language, Python which I have used to create simple programs such as Rock, Paper, Scissors and Dice Probability Simulator.
+- 👀 I’m interested in most things IT-related but I'm especially interested in cyber security and coding.
+- 🌱 I’m currently learning my first language, Python, which I have used to create basic games such as Rock, Paper, Scissors, Shut The Box and other programs like Dice Probability Simulators. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
